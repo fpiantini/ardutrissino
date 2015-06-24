@@ -14,18 +14,8 @@ This sketch shall be used with the phisical game board described here:
 
 ## Installation
 
-  http://www.fpiantini.it/prove-arduino-prima-bozza-di-tris/
-
-(article in italian language)
-
-## Features
-
-- To be completed
-
-
-## Installation
-
    git clone https://github.com/fpiantini/ardutrissino.git
+
 
 ## Compile
 
